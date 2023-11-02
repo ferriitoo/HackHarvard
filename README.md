@@ -1,10 +1,10 @@
 # EffiSTEM
 
 EffiSTEM is a versatile and effective educational companion that harnesses the power of Large Language Models (LLMs) and STOTA STEM OCR Mathpix to deliver top-notch answers tailored to your lecture notes and YouTube playlists.
-<img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/src/Assets/EfiiSTEM.png"/>
-<img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/Images/happy.png"/>
-<img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/Images/sad.png"/>
-<img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/Images/not_understand.png"/>
+<img src="https://github.com/ferriitoo/HackHarvard/blob/main/src/Assets/EfiiSTEM.png"/>
+<img src="https://github.com/ferriitoo/HackHarvard/blob/main/Images/happy.png"/>
+<img src="https://github.com/ferriitoo/HackHarvard/blob/main/Images/sad.png"/>
+<img src="https://github.com/ferriitoo/HackHarvard/blob/main/Images/not_understand.png"/>
 
 ## Description
 
