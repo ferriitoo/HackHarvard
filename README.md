@@ -2,6 +2,10 @@
 
 EffiSTEM is a versatile and effective educational companion that harnesses the power of Large Language Models (LLMs) and STOTA STEM OCR Mathpix to deliver top-notch answers tailored to your lecture notes and YouTube playlists.
 <img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/src/Assets/EfiiSTEM.png"/>
+<img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/Images/happy.png"/>
+<img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/Images/sad.png"/>
+<img src="https://github.com/victorsamsonov/KingsOfRecursion/blob/main/Images/not_understand.png"/>
+
 ## Description
 
 EffiSTEM empowers users to personalize their learning experience, enabling the Large Language Model to adapt its explanations in a manner that suits the individual learner. We've observed that when a user specifies their interests, such as hobbies, the LLM leverages this information to explain complex technical concepts using language and analogies that resonate with the student. Users can also select a YouTube playlist and upload their own notes for a STEM subject, providing the LLM with access to relevant content aligned with their interests.
